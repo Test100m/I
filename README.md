@@ -1,2 +1,1 @@
-# I
-test
+# ganteng.github.com
